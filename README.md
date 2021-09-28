@@ -1,45 +1,40 @@
-## Hi there, I'm Mehmed Catic 👋
-
----
-
-#### I'm a junior software developer at [MistralTechonologies][mistral] && [MaestralSolutions][maestral]
+## Hi there, my name is Mehmed Catic 👋
 
 
----
+#### I'm a junior software developer @ **[MistralTechonologies][mistral]** && **[MaestralSolutions][maestral]**
 
-### Connect with me:
+### Let's connect 😄
 
-[<img align="left" alt="MehmedCatic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MehmedCatic | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="MehmedCatic | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="blue"/>][linkedin]
+[<img align="left" alt="MehmedCatic | Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color: orange"/>][instagram]
 
 <br />
 
-### Languages and Tools:
-
-<img align="left" alt="Javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-<img align="left" alt="Angular" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
-<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />
-<img align="left" alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />
-<img align="left" alt="Bootstrap" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bootstrap.svg" />
-<img align="left" alt="DotNet" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dot-net.svg" />
-<img align="left" alt="CSharp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />
-<img align="left" alt="TypeScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
-
-<br />
-<br />
-
-
 ---
+
+## Tech Stack
+<p>
+  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/>
+    <img alt="Angular" src="https://img.shields.io/badge/-Angular-F05032?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="typescript" src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+<br />
+
+
+
+<a href="https://github.com/mehmedca/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmedca&show_icons=true" style="margin-right: 20px;"/>
+</a>
+<a href="https://github.com/mehmedca/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmedca&layout=compact" />
+</a>
+
+
 
 [instagram]: https://instagram.com/mesa1402
 [linkedin]: https://linkedin.com/in/mehmed-%C4%87ati%C4%87-b9610520a
 [mistral]: https://www.mistral.ba
 [maestral]: https://www.maestralsolutions.com
-[dotnet]: https://www.maestralsolutions.com
-[angular]: https://www.maestralsolutions.com
-[typescript]: https://www.maestralsolutions.com
-[csharp]: https://www.maestralsolutions.com
-[javascript]: https://www.maestralsolutions.com
-[html]: https://www.maestralsolutions.com
-[css]: https://www.maestralsolutions.com
-[bootstrap]: https://www.maestralsolutions.com
